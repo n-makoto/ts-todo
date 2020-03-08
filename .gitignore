@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# IntelliJ
+.idea/
+
+# IntelliJ
+.idea/
+
+# IntelliJ
+.idea/
